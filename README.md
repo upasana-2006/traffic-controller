@@ -39,3 +39,10 @@ Sensor-based adaptive timing
 IoT-enabled monitoring
 Multi-road intersection support
 AI-based traffic optimization
+
+Schematic:
+<img width="1504" height="451" alt="image" src="https://github.com/user-attachments/assets/e3d64ab0-cc37-4062-9efe-530c0f6b1cbb" />
+
+Testbench:
+<img width="1507" height="770" alt="image" src="https://github.com/user-attachments/assets/24292cf2-eef4-4624-908b-61ac2438b70f" />
+
